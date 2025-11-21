@@ -12,7 +12,7 @@ This is a multi-part application designed to streamline candidate flow managemen
 To get the Offline Version of this application or system, please have a look at this repository: [Click Here](https://github.com/thetechguy-kt/interview-caller-system)
 
 ### One-Time ChangeLog ###
-21th November 2025:
+21st November 2025:
   - The Pre-Release 1 is uploaded in the Main Repository.
   - Any Queries can be sent to my E-Mail ID: [thetechguy34@outlook.com](mailto:thetechguy34@outlook.com)
 
