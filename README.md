@@ -16,7 +16,7 @@ To get the Offline Version of this application or system, please have a look at 
   - The Pre-Release 1 is uploaded in the Main Repository.
   - Any Queries can be sent to my E-Mail ID: [thetechguy34@outlook.com](mailto:thetechguy34@outlook.com)
 
-For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/interview-caller-system/blob/main/Changelog.md)
+For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/interview-caller-system_online/blob/main/Changelog.md)
 
 # ✔️ Preparatory Steps
 
