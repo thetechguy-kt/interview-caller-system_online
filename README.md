@@ -12,8 +12,8 @@ This is a multi-part application designed to streamline candidate flow managemen
 To get the Offline Version of this application or system, please have a look at this repository: [Click Here](https://github.com/thetechguy-kt/interview-caller-system)
 
 ### One-Time ChangeLog ###
-21st November 2025:
-  - The Pre-Release 1 is uploaded in the Main Repository.
+16th March 2026:
+  - Release 1 uploaded in GitHub. All the Bugs are fixed in Release 1.
   - Any Queries can be sent to my E-Mail ID: [karthikeyanvijayabaskar@gmail.com](mailto:karthikeyanvijayabaskar@gmail.com)
 
 For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/interview-caller-system_online/blob/main/Changelog.md)
